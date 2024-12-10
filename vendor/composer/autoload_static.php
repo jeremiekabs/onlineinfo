@@ -526,6 +526,8 @@ class ComposerStaticInit7e8c3c14ff33b199b4a0838993eb8423
         'App\\Http\\Requests\\AuthRequest' => __DIR__ . '/../..' . '/app/Http/Requests/AuthRequest.php',
         'App\\Http\\Requests\\CategoryRequest' => __DIR__ . '/../..' . '/app/Http/Requests/CategoryRequest.php',
         'App\\Http\\Requests\\RegisterRequest' => __DIR__ . '/../..' . '/app/Http/Requests/RegisterRequest.php',
+        'App\\Livewire\\ContactForm' => __DIR__ . '/../..' . '/app/Livewire/ContactForm.php',
+        'App\\Mail\\ContactForMail' => __DIR__ . '/../..' . '/app/Mail/ContactForMail.php',
         'App\\Models\\Article' => __DIR__ . '/../..' . '/app/Models/Article.php',
         'App\\Models\\Categorie' => __DIR__ . '/../..' . '/app/Models/Categorie.php',
         'App\\Models\\Commentaire' => __DIR__ . '/../..' . '/app/Models/Commentaire.php',

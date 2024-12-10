@@ -18,6 +18,8 @@ return array(
     'App\\Http\\Requests\\AuthRequest' => $baseDir . '/app/Http/Requests/AuthRequest.php',
     'App\\Http\\Requests\\CategoryRequest' => $baseDir . '/app/Http/Requests/CategoryRequest.php',
     'App\\Http\\Requests\\RegisterRequest' => $baseDir . '/app/Http/Requests/RegisterRequest.php',
+    'App\\Livewire\\ContactForm' => $baseDir . '/app/Livewire/ContactForm.php',
+    'App\\Mail\\ContactForMail' => $baseDir . '/app/Mail/ContactForMail.php',
     'App\\Models\\Article' => $baseDir . '/app/Models/Article.php',
     'App\\Models\\Categorie' => $baseDir . '/app/Models/Categorie.php',
     'App\\Models\\Commentaire' => $baseDir . '/app/Models/Commentaire.php',
